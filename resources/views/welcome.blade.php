@@ -83,7 +83,7 @@
                     
                     <!-- Name -->
                     <div class="page-scroll site-logo">
-                        <a href="#top">Belen</a>
+                        <a href="#top">Belen Ruiz</a>
                     </div>
 
                 </div><!-- /.navbar-header -->
